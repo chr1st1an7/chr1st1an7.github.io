@@ -72,4 +72,3 @@ Just a compass to help with understanding headings/degrees.
 ## A320 Pilot / custom waypoints
 
 PLACE /  BRG/HDG /  DIST
-
