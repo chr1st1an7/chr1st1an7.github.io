@@ -4,6 +4,7 @@ title: Aviation Notes
 date: 2023-08-09 16:50:00 +2000
 categories: aviation
 tags: terms, tips
+img_path: /assets/img
 ---
 
 ## Calculating **reciprocals** of headings
@@ -22,7 +23,7 @@ If heading is 230:
 PAPIs help pilots maintain the correct glide path to the runway, ensuring a safe and accurate landing.
 
 
-![PAPIs](/assets/img/aviation-notes-papis.png)
+![PAPIs](aviation-notes-papis.png)
 
 
 Student pilots in initial training may use the mnemonic
@@ -41,7 +42,7 @@ RED on RED – "You're dead" (too low)
 
 Towering Cumulus clouds can indicate the possibility of turbulence, updrafts, downdrafts, and other turbulent air movements. They might also be an early sign of more developed cumulonimbus clouds, which can bring more severe weather conditions like thunderstorms, lightning, heavy rain, and even hail. Pilots need to exercise caution when flying near or through areas with Towering Cumulus clouds, as they can experience sudden changes in altitude and encounter rough air.
 
-![Cumulus](/assets/img/aviation-notes-towering-cumulus.jpg)
+![Cumulus](aviation-notes-towering-cumulus.jpg)
 
 
 ## Ceiling
@@ -65,7 +66,7 @@ Fog and Low Visibility: Dew point is closely related to the formation of fog, wh
 ## Compass
 Just a compass to help with understanding headings/degrees.
 
-![Compass](/assets/img/aviation-notes-compass.png)
+![Compass](aviation-notes-compass.png)
 
 
 
