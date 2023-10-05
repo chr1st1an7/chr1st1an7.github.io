@@ -24,7 +24,8 @@ concurrency:
 
 jobs:
   build:
-    runs-on: self-hosted
+    #runs-on: self-hosted
+    runs-on: ubuntu
 
     steps:
       - name: Checkout
