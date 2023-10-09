@@ -37,3 +37,44 @@ tags: pcb
 | 1 ea. | 1x4 pin 2.54mm Socket Connector |
 | 1 ea. | 1x16 pin 2.54mm Socket Connector |
 | 1 ea. | LCD 1602 HD44780 (pin 15 is anode, pin 16 is katode) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Shield A v2.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Chriggle Weather Station
+
+- Use an ESP32 board as the microcontroller/main board.
+- Use the [DS18B20](https://parts.chriggle.com/en/part/12) temperature sensor.
+- Maybe add a more advanced sensor like humidity
+- Use an 1602 LCD screen to display all the information.
+- Display both real-time information on the current weather with the DS18B20, and weather forecasts for the current day/next day.
+- Display the time and date.
+- Have an on-off switch/slide switch for controlling the LCD/whole board.
