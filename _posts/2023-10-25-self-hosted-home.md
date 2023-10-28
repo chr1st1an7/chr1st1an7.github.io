@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self Hosted Home Applications
-date: 2023-25-10 13:00:00 +2000
+date: 2023-10-25 13:00:00 +2000
 categories: homelab
 tags: docs, homelab, linux
 ---
