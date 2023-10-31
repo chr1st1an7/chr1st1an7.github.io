@@ -55,7 +55,7 @@ tags: pcb
 ## Shield A v2.0.1
 [Shield-A v2.0.1 GitHub](https://l.chriggle.com/shield-a-v2)
 
-![](https://github.com/rsedak/Shield-A_V2.0.1/raw/main/images/shield-a_v2.0_01.png)
+![Shield-A v2.0.1 Image from KiCad](https://github.com/rsedak/Shield-A_V2.0.1/raw/main/images/shield-a_v2.0_01.png)
 
 
 
