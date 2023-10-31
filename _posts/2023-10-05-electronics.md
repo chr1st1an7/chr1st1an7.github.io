@@ -8,7 +8,7 @@ tags: pcb
 
 
 ## Shield A v1.1
-[Shield-A GitHub](https://github.com/rsedak/Shield-A)
+[Shield-A v1.1 GitHub](https://l.chriggle.com/shield-a-v1)
 
 
 ### **Bill of Materials**
@@ -52,9 +52,10 @@ tags: pcb
 
 
 
-## Shield A v2.1
+## Shield A v2.0.1
+[Shield-A v2.0.1 GitHub](https://l.chriggle.com/shield-a-v2)
 
-
+![](https://github.com/rsedak/Shield-A_V2.0.1/raw/main/images/shield-a_v2.0_01.png)
 
 
 
@@ -72,9 +73,11 @@ tags: pcb
 ## Chriggle Weather Station
 
 - Use an ESP32 board as the microcontroller/main board.
-- Use the [DS18B20](https://parts.chriggle.com/en/part/12) temperature sensor.
+- Use the [DS18B20](https://l.chriggle.com/ds18b20) temperature sensor.
 - Maybe add a more advanced sensor like humidity
 - Use an 1602 LCD screen to display all the information.
 - Display both real-time information on the current weather with the DS18B20, and weather forecasts for the current day/next day.
 - Display the time and date.
 - Have an on-off switch/slide switch for controlling the LCD/whole board.
+- Control the AC temperature with a potentiometer/button
+- Make it portable, be able to plug in and out the external temperature sensor
