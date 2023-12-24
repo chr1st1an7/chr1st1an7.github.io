@@ -10,6 +10,7 @@ tags: docs, homelab, linux
 ### Server
 - Ubuntu Server as the main OS on the server
 - Portainer or Dockage for managing containers
+- Frigate as CCTV
 - Pihole
 - NGINX Proxy Manager
 - Sonarr, Radarr, Bazarr, Overseer
@@ -22,6 +23,7 @@ tags: docs, homelab, linux
 - Guacamole
 - Nextcloud
 - Homarr
+- Linkwarden
 
 
 ### Media Server
@@ -30,5 +32,4 @@ tags: docs, homelab, linux
     - NFS Share for Docker Volumes and storage for PCs
     - Syncthing or something similar for backups
     - Jellyfin, Photoprism
-    - Frigate as CCTV
-
+   

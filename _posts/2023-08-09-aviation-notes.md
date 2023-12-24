@@ -73,3 +73,15 @@ Just a compass to help with understanding headings/degrees.
 ## A320 Pilot / custom waypoints
 
 PLACE /  BRG/HDG /  DIST
+
+## OFP Explained
+
+- **MAX SR** - Maximum Shear Rate: if > 8 expect turbulence
+
+- **CNR** - Company Normal Reserve
+
+- **MORA** - Minimum Off-route Altitude -  if > 100 - not so easy to descend 
+
+- Weather 9999 - clear - perfect weather - no clouds
+
+- SIGMET Charts - significant weather charts
