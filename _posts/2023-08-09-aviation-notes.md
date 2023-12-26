@@ -85,3 +85,8 @@ PLACE /  BRG/HDG /  DIST
 - Weather 9999 - clear - perfect weather - no clouds
 
 - SIGMET Charts - significant weather charts
+
+
+## Engine Out Procedure
+If it's a STD (standard) EOUT procedure, that means that you can continue straight on the runway heading and get enter the procedure
+If it's a NON STD(non-standard), then it's a different turn/heading.
