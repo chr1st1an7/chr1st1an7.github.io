@@ -3,7 +3,7 @@ layout: post
 title: Algoritmi u Pythonu
 date: 2023-11-16 20:00 +1000
 categories: books
-tags: python, notes
+tags: python notes
 ---
 
 

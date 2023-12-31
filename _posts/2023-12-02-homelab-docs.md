@@ -3,7 +3,7 @@ layout: post
 title: HomeLab Notes
 date: 2023-12-02 20:00:00 +1000
 categories: homelab
-tags: docs, homelab, linux
+tags: docs homelab linux
 ---
 ## HomeLab Projects
 

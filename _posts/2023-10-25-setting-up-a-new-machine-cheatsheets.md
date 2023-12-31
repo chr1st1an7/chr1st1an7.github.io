@@ -3,7 +3,7 @@ layout: post
 title: Setting up a new machine - Cheatsheets
 date: 2023-10-25 13:00:00 +2000
 categories: homelab
-tags: docs, homelab, linux
+tags: docs homelab linux
 ---
 ## Updating and upgrading Ubuntu
 ```shell

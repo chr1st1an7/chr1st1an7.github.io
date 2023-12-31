@@ -2,8 +2,8 @@
 layout: post
 title: Make Electronics 3rd Edition - Documentation
 date: 2023-12-31 17:00 +1000
-categories: books, electronics
-tags: electronics, notes, bom
+categories: books electronics
+tags: electronics notes bom
 ---
 
 ## Required components
