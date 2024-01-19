@@ -7,6 +7,13 @@ tags: terms tips
 img_path: /assets/img
 ---
 
+## Useful resources
+
+- [Flight Simulation Documents/Resources - Only for users in the Chriggle network](https://l.chriggle.com/internal-fsdocs)
+- [A320 Standard Operating Procedures (SOPs) by VmcgHD](https://l.chriggle.com/sop)
+- 
+
+
 ## Calculating **reciprocals** of headings
 
 If heading is 050:
@@ -90,3 +97,10 @@ PLACE /  BRG/HDG /  DIST
 ## Engine Out Procedure
 If it's a STD (standard) EOUT procedure, that means that you can continue straight on the runway heading and get enter the procedure
 If it's a NON STD(non-standard), then it's a different turn/heading.
+
+
+## Anti Icing
+
+- Engine or wing anti-icing should be turned on when the TAT temperature is at or below 10 degrees Celsius.
+- If the temperature is below -40, the anti-icing system can be turned off because it is too cold for ice to stick on the aircraft.
+

@@ -112,3 +112,46 @@ tags: electronics notes bom
 | 470K resistor | not available | N/A |
 | 1 uF capacitor | available | to be added |
 
+### Section Four
+
+- Integrated Circuit Chips
+- 555 Timer
+- Seven-Segment Display
+
+| Components | Availability | Inventory ID |
+| ----------- | ----------- | ----------- |
+| 555 timer | not available | N/A |
+| SPDT slide switch | available | to be added |
+| Trimmer 500K | not available | N/A |
+| Tactile switch | available | to be added |
+| Generic red 3mm LED | available | to be added |
+| Speaker 8 ohm | not available | N/A |
+| Trimmer 10K | not available | N/A |
+| Diode 1N4148 | not available | N/A |
+| Counter 4026B | not available | N/A |
+| 7 segment LED digit | not available | N/A |
+| Regulator LM7805 | not available | N/A |
+| AND chip 74HC02 | not available | N/A |
+| OR chip 74HC32 | not available | N/A |
+| 9V battery | available | to be added |
+| DPDT 9V relay | not available | N/A |
+| Transistor 2N3904 | not available | N/A |
+| NOR chip 74HC393 | not available | N/A |
+| Counter 74HC393 | not available | N/A |
+| NOR chip 74HC27 | not available | N/A |
+| 100 ohm resistor | available | to be added |
+| 470 ohm resistor | not available | N/A |
+| 1K resistor | available | to be added |
+| 4.7K resistor | available | to be added |
+| 10K resistor | not available | N/A |
+| 47K resistor | not available | N/A |
+| 100K resistor | not available | N/A |
+| 470K resistor | not available | N/A |
+| 0.01uF capacitor | not available | N/A |
+| 0.047uF capacitor | not available | N/A |
+| 0.1uF capacitor | not available | N/A |
+| 0.47uF capacitor | not available | N/A |
+| 10uF capacitor | not available | N/A |
+| 100uF capacitor | not available | N/A |
+
+check page 298 section 4
