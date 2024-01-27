@@ -21,7 +21,7 @@ tags: electronics notes bom
 - Mending Plates or Brackets
 
 | Components | Availability | Inventory ID |
-| ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | 
 | 9V Battery | x2 available | to be added |
 | Red 5mm LED | available | 12 |
 | Generic fuse rated 1A | not available | N/A |

@@ -33,3 +33,16 @@ tags: docs homelab linux
     - Syncthing or something similar for backups
     - Jellyfin, Photoprism
    
+
+
+### Nextcloud
+
+#### Exec into nextcloud
+```bash
+sudo docker exec -u 33 -it nextcloud /bin/bash
+```
+
+#### Set chunk size to 0
+```bash
+php occ config:app:set files max_chunk_size --value 0
+```
