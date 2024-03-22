@@ -17,7 +17,8 @@ If we want to add a service to Traefik that isn't on the same machine with Traef
 
 First, we add the entrypoints for the service:
 
-> Make sure to change the service's name, domain, and URL {: .prompt-info }
+> Make sure to change the service's name, domain, and URL 
+{: .prompt-info }
 
 ```yaml
 NAME:
@@ -59,7 +60,8 @@ networks:
 
 And finally add the labels that Traefik recognizes:
 
-> Make sure to change the name of your service in the code, the domain and the port the service is running on {: .prompt-info }
+> Make sure to change the name of your service in the code, the domain and the port the service is running on 
+{: .prompt-info }
 
 ```yaml
 labels:
